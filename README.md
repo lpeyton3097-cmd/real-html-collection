@@ -9,5 +9,3 @@ real html collection!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1!1
 |games|Working?|
 |---|---|
 |https://lpeyton3097-cmd.github.io/gnmath-realll/| Yes|
-
-<script src="https://gist.github.com/lpeyton3097-cmd/1028cd18c83e0ae0b5d2a211196283db.js"></script>
